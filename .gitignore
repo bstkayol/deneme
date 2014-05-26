@@ -7,7 +7,7 @@ namespace deneme
     {
         public ana()
         {
-            Console.WriteLine("Merhaba");
+            Console.WriteLine("Merhabaaa");
         }
     }
 }
